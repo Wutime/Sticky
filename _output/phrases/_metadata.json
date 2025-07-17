@@ -1,47 +1,35 @@
 {
-    "style_prop.wuStickyBgColor.txt": {
+    "style_prop.wuStickyThreadGroupBgColor.txt": {
         "global_cache": false,
         "version_id": 1000000,
         "version_string": "1.0.0",
-        "hash": "478f686ebeb7435a1b0ee284da982906"
+        "hash": "66c68b4bad1982bebae6eeb7f52cf00c"
     },
-    "style_prop.wuStickyBorderColor.txt": {
+    "style_prop.wuStickyThreadGroupBorderColor.txt": {
         "global_cache": false,
         "version_id": 1000000,
         "version_string": "1.0.0",
-        "hash": "d903cd86c02cb439aa57f17abe5c2b6d"
+        "hash": "20155d29f98bcf57a825f814c7e6ea44"
     },
-    "style_prop.wuStickyBorderStyle.txt": {
+    "style_prop.wuStickyThreadGroupBorderStyle.txt": {
         "global_cache": false,
         "version_id": 1000000,
         "version_string": "1.0.0",
-        "hash": "aff059d3181e943e55e597461f81e289"
+        "hash": "b7643e525f5ab3b8ff0405963f5b551b"
     },
-    "style_prop.wuStickyBorderWidth.txt": {
-        "global_cache": false,
-        "version_id": 1000000,
-        "version_string": "1.0.0",
-        "hash": "f12086c569b4473e571bb166b2854de6"
-    },
-    "style_prop_desc.wuStickyBgColor.txt": {
+    "style_prop_desc.wuStickyThreadGroupBgColor.txt": {
         "global_cache": false,
         "version_id": 1000000,
         "version_string": "1.0.0",
         "hash": "d41d8cd98f00b204e9800998ecf8427e"
     },
-    "style_prop_desc.wuStickyBorderColor.txt": {
+    "style_prop_desc.wuStickyThreadGroupBorderColor.txt": {
         "global_cache": false,
         "version_id": 1000000,
         "version_string": "1.0.0",
         "hash": "d41d8cd98f00b204e9800998ecf8427e"
     },
-    "style_prop_desc.wuStickyBorderStyle.txt": {
-        "global_cache": false,
-        "version_id": 1000000,
-        "version_string": "1.0.0",
-        "hash": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    "style_prop_desc.wuStickyBorderWidth.txt": {
+    "style_prop_desc.wuStickyThreadGroupBorderStyle.txt": {
         "global_cache": false,
         "version_id": 1000000,
         "version_string": "1.0.0",

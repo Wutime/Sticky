@@ -5,5 +5,5 @@
     "enabled": true,
     "action": "preg_replace",
     "find": "/$/isU",
-    "replace": "<xf:include template=\"wu_sticky.less\" />\n\n.wutime-test {\ncolor:red;\n}"
+    "replace": "<xf:include template=\"wu_sticky.less\" />"
 }

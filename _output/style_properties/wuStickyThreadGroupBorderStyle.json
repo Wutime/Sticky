@@ -1,6 +1,6 @@
 {
     "group_name": "wuSticky",
-    "title": "Sticky Border Style",
+    "title": "Sticky Thread Group Border Style",
     "description": "",
     "property_type": "css",
     "css_components": [
@@ -15,8 +15,7 @@
     "depends_on": "",
     "value_group": "",
     "property_value": {
-        "border-width": "1px;",
-        "extra": "margin-top:2px;\nmargin-bottom:2px;"
+        "border-width": "1px;"
     },
     "display_order": 0
 }
