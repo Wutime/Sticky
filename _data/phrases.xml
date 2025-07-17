@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phrases>
-  <phrase title="style_prop.wuStickyBgColor" version_id="1000000" version_string="1.0.0"><![CDATA[Sticky Background Color]]></phrase>
-  <phrase title="style_prop.wuStickyBorderColor" version_id="1000000" version_string="1.0.0"><![CDATA[Sticky Border Color]]></phrase>
-  <phrase title="style_prop.wuStickyBorderStyle" version_id="1000000" version_string="1.0.0"><![CDATA[Sticky Border Style]]></phrase>
-  <phrase title="style_prop.wuStickyBorderWidth" version_id="1000000" version_string="1.0.0"><![CDATA[Sticky Border Thickness]]></phrase>
-  <phrase title="style_prop_desc.wuStickyBgColor" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.wuStickyBorderColor" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.wuStickyBorderStyle" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.wuStickyBorderWidth" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop.wuStickyThreadGroupBgColor" version_id="1000000" version_string="1.0.0"><![CDATA[Sticky Thread Group Background Color]]></phrase>
+  <phrase title="style_prop.wuStickyThreadGroupBorderColor" version_id="1000000" version_string="1.0.0"><![CDATA[Sticky Thread Group Border Color]]></phrase>
+  <phrase title="style_prop.wuStickyThreadGroupBorderStyle" version_id="1000000" version_string="1.0.0"><![CDATA[Sticky Thread Group Border Style]]></phrase>
+  <phrase title="style_prop_desc.wuStickyThreadGroupBgColor" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.wuStickyThreadGroupBorderColor" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.wuStickyThreadGroupBorderStyle" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_group.wuSticky" version_id="1000000" version_string="1.0.0"><![CDATA[[Wutime] Sticky Essentials]]></phrase>
   <phrase title="style_prop_group_desc.wuSticky" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
 </phrases>

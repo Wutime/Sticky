@@ -2,10 +2,6 @@
 <template_modifications>
   <modification type="public" template="extra.less" modification_key="wu_sticky_extra_less" execution_order="10" enabled="1" action="preg_replace">
     <find><![CDATA[/$/isU]]></find>
-    <replace><![CDATA[<xf:include template="wu_sticky.less" />
-
-.wutime-test {
-color:red;
-}]]></replace>
+    <replace><![CDATA[<xf:include template="wu_sticky.less" />]]></replace>
   </modification>
 </template_modifications>

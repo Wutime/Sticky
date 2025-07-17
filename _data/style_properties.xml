@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style_properties>
-  <style_property property_name="wuStickyBgColor" group_name="wuSticky" title="Sticky Background Color" property_type="value" value_type="color" has_variations="1" display_order="0">
+  <style_property property_name="wuStickyThreadGroupBgColor" group_name="wuSticky" title="Sticky Thread Group Background Color" property_type="value" value_type="color" has_variations="1" display_order="0">
     <value>{
     "default": "@xf-contentHighlightBg"
 }</value>
   </style_property>
-  <style_property property_name="wuStickyBorderColor" group_name="wuSticky" title="Sticky Border Color" property_type="value" value_type="color" has_variations="1" display_order="0">
+  <style_property property_name="wuStickyThreadGroupBorderColor" group_name="wuSticky" title="Sticky Thread Group Border Color" property_type="value" value_type="color" has_variations="1" display_order="0">
     <value>{
     "default": "@xf-borderColorHighlight"
 }</value>
   </style_property>
-  <style_property property_name="wuStickyBorderStyle" group_name="wuSticky" title="Sticky Border Style" property_type="css" has_variations="0" display_order="0" css_components="border_width_simple,border_radius_simple,padding,extra">
+  <style_property property_name="wuStickyThreadGroupBorderStyle" group_name="wuSticky" title="Sticky Thread Group Border Style" property_type="css" has_variations="0" display_order="0" css_components="border_width_simple,border_radius_simple,padding,extra">
     <value>{
-    "border-width": "1px;",
-    "extra": "margin-top:2px;\nmargin-bottom:2px;"
+    "border-width": "1px;"
 }</value>
-  </style_property>
-  <style_property property_name="wuStickyBorderWidth" group_name="wuSticky" title="Sticky Border Thickness" property_type="value" value_type="unit" has_variations="0" display_order="0">
-    <value>"2px"</value>
   </style_property>
 </style_properties>
