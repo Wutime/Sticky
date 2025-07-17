@@ -10,7 +10,7 @@
     "default": "@xf-borderColorHighlight"
 }</value>
   </style_property>
-  <style_property property_name="wuStickyThreadGroupBorderStyle" group_name="wuSticky" title="Sticky Thread Group Border Style" property_type="css" has_variations="0" display_order="0" css_components="border_width_simple,border_radius_simple,padding,extra">
+  <style_property property_name="wuStickyThreadGroupBorderStyle" group_name="wuSticky" title="Sticky Thread Group Miscellaneous" property_type="css" has_variations="0" display_order="0" css_components="border_width_simple,border_radius_simple,padding,extra">
     <value>{
     "border-width": "1px;"
 }</value>
