@@ -1,0 +1,9 @@
+{
+    "template": "extra.less",
+    "description": "",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "preg_replace",
+    "find": "/$/isU",
+    "replace": "<xf:include template=\"wu_sticky.less\" />\n\n.wutime-test {\ncolor:red;\n}"
+}

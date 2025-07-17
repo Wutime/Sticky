@@ -1,0 +1,22 @@
+{
+    "group_name": "wuSticky",
+    "title": "Sticky Border Style",
+    "description": "",
+    "property_type": "css",
+    "css_components": [
+        "border_width_simple",
+        "border_radius_simple",
+        "padding",
+        "extra"
+    ],
+    "value_type": "",
+    "value_parameters": "",
+    "has_variations": false,
+    "depends_on": "",
+    "value_group": "",
+    "property_value": {
+        "border-width": "1px;",
+        "extra": "margin-top:2px;\nmargin-bottom:2px;"
+    },
+    "display_order": 0
+}

@@ -1,0 +1,16 @@
+{
+    "group_name": "wuSticky",
+    "title": "Sticky Background Color",
+    "description": "",
+    "property_type": "value",
+    "css_components": [],
+    "value_type": "color",
+    "value_parameters": "",
+    "has_variations": true,
+    "depends_on": "",
+    "value_group": "",
+    "property_value": {
+        "default": "@xf-contentHighlightBg"
+    },
+    "display_order": 0
+}
